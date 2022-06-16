@@ -1,4 +1,4 @@
-## Programa Explorer RocketSeat - Stage 02  🚀
+## Programa Explorer RocketSeat - Stage 03  🚀
 
 ##### Resolução do primeiro desafio do Stage 03 (Recriação de formulário avançado)
 
